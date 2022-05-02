@@ -89,29 +89,7 @@
       "brand": "MacBook Pro",
       "cost": 479.83,
       "status": "Done"
-    },
-    {
-      "id": 9,
-      "problem": "overheating",
-      "owner_name": "Adam Smith",
-      "brand": "MSI",
-      "cost": 309.07,
-      "status": "Done"
-    },
-    {
-      "id": 10,
-      "problem": "webcam not working",
-      "owner_name": "Adam Smith",
-      "brand": "HP",
-      "cost": 257.42,
-      "status": "In Progress"
-    },
-    {
-      "problem": "test",
-      "brand": "1",
-      "owner_name": "John Doe",
-      "status": "Not Accepted",
-      "id": 11
     }
+   
   ]
 }
